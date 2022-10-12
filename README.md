@@ -96,7 +96,7 @@ Sample: Test image as `chromiumos_image.bin`
 
 Map the image partitions to Image.
 ```bash
-./map_chromiumos_image.sh ~/r102/src/build/images/rk3588-nod/latest/chromiumos_image.bin>
+./map_chromiumos_image.sh ~/r102/src/build/images/rk3588-nod/latest/chromiumos_image.bin
 ```
 
 Create update image
