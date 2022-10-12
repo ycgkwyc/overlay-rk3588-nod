@@ -32,7 +32,7 @@ cd ~/r102/openfyde/manifest
 </manifest>
 ```
 
-fork overlay-amd64-openfyde 到自己的远程仓库并把所有原本文件内所有名字改为 overlay-rk3588-nod
+fork 到自己的远程仓库并把所有原本文件内所有名字改为 overlay-rk3588-nod
 
 然后
 ```bash
