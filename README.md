@@ -101,7 +101,7 @@ Map the image partitions to Image.
 
 Create update image
 ```bash
-sudo ./rk3588-mkupdate.sh
+sudo bash ./rk3588-mkupdate.sh
 ```
 if show Error:<AddFile> open file failed,err=2! please check map file link and file name
 Get you update.img at this directory. (not Image/update.img)
